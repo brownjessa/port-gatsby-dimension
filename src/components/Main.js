@@ -36,7 +36,7 @@ class Main extends React.Component {
             An innovative and solution-focused UX/UI, Product Designer and fledgling front-end developer. 
             My passion is for technology and designing responsive 2D products as well as 3D enviornments 
             and products.
-            Check out my <a href="#">Resume</a>.
+            Check out my <a href="https://drive.google.com/file/d/1-GbjH4CyK6d5OhDWAkQsjhxQNgRMbyUK/view?usp=sharing">Resume</a>.
           </p>
           {/* <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis
