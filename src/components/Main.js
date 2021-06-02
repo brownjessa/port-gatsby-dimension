@@ -69,9 +69,10 @@ class Main extends React.Component {
           <header> 
           <h2>Member Dashboard</h2>
         <section>
+	<p> Redesign the login portal to combine portal site and admin site into one for 3Data clients so they could better manage users and view Data rooms. Kept in mind usage of Cyber Security clients vs. Corporate executive clients' technology preferences. This led me to institute machine intuitive light vs. dark theme. We used a minimalistic color scheme and dashboard functionality aesthetic since 3Data is a data management SaaS product. </p>
           <ul className ="alt">
-										<li><a href="https://xd.adobe.com/view/31e9a0aa-23bf-46f0-80ba-1cdafdf45095-64ba/">Dark Theme</a></li>
-										<li><a href="https://xd.adobe.com/view/31e9a0aa-23bf-46f0-80ba-1cdafdf45095-64ba/">Light Theme</a></li>
+										<li><a href="https://xd.adobe.com/view/db3e4663-95c4-46a5-9c66-cc9b7227b75c-8e6d/">Dark Theme</a></li>
+										<li><a href="https://xd.adobe.com/view/7966cb30-938c-4b09-8bb9-0c5fd06c4ceb-2c35/">Light Theme</a></li>
 									</ul>
           </section>
           </header>
@@ -79,6 +80,7 @@ class Main extends React.Component {
           <header className="major"> 
           <h2>Hierarchy User Flows</h2>
         <section>
+	<p> Different user functionality of the Member Dashboard project </p>
           <ul className="alt">
 										<li><a href="https://drive.google.com/file/d/1aCYT1qtywtGtIPlszj45kEUPBnLBGiD2/view?usp=sharing">Super Admin</a></li>
 										<li><a href="https://drive.google.com/file/d/1dNG13jUipryqD3i5dEmJvkQH9RwGmqvN/view?usp=sharing">Admin</a></li>
@@ -91,6 +93,7 @@ class Main extends React.Component {
           <h2>Cyber Data Viz</h2>
           <div className="content">
         <section>
+	<p> This is a program designed for a department of the DoD to manage servers. It is a seven page product that uses visual hierarchy to organize online and troubled servers for quick adjustments. In this project you can see my in-line pseudo styling coding on my styling edits. The first link is a mock and the second two are actual visual representations of how I was working with my front-end developer on how to code in a new React library that myself and the team were starting to use. </p>
           <ul className="alt">
 										<li><a href="https://xd.adobe.com/view/6c1ac636-6876-4394-425b-fd3ca5fe00e7-1a2b/">Mock</a></li>
 										<li><a href="https://xd.adobe.com/view/595ee5d9-8d4a-484b-4929-4711c61da7d1-2f6f/">Styling Guide</a></li>
