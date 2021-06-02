@@ -82,9 +82,9 @@ class Main extends React.Component {
         <section>
 	<p> Different user functionality of the Member Dashboard project </p>
           <ul className="alt">
-										<li><a href="https://drive.google.com/file/d/1aCYT1qtywtGtIPlszj45kEUPBnLBGiD2/view?usp=sharing">Super Admin</a></li>
-										<li><a href="https://drive.google.com/file/d/1dNG13jUipryqD3i5dEmJvkQH9RwGmqvN/view?usp=sharing">Admin</a></li>
-                    <li><a href="https://drive.google.com/file/d/1Mxf---rD1xtY2dbSu7VUQ8JejYRFS0ji/view?usp=sharing">Standard Users</a></li>
+										<li><a href="https://drive.google.com/file/d/1Is_iYXF0i2ufNdkYhfUjs88X0DHPeDVa/view?usp=sharing">Super Admin</a></li>
+										<li><a href="https://drive.google.com/file/d/1FPssN0-h8-h5zYDtGj91MYMmzIrpwmk7/view?usp=sharing">Admin</a></li>
+                    <li><a href="https://drive.google.com/file/d/1nFqVYs0Jp4q0Mx9s5M0OAfiXGVJgFexJ/view?usp=sharing">Standard Users</a></li>
 									</ul>
           </section>
           </header>
